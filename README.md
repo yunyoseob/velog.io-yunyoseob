@@ -6,4 +6,5 @@
 
 # 블로그 포스팅 첫 시리즈
 
-[JAVA 기초](https://velog.io/@yunyoseob/series/JAVA%EA%B8%B0%EC%B4%88)
+ > [JAVA 기초](https://velog.io/@yunyoseob/series/JAVA%EA%B8%B0%EC%B4%88)
+- [JDK&Editplus 설치](https://github.com/yunyoseob/velog.io-yunyoseob/blob/main/JAVA%EA%B8%B0%EC%B4%88/JDK%26Editplus%EC%84%A4%EC%B9%98.md)

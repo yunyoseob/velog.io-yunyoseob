@@ -12,3 +12,5 @@
 - [HelloJava 출력하기](https://github.com/yunyoseob/velog.io-yunyoseob/blob/main/JAVA%EA%B8%B0%EC%B4%88/HelloJava%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.md)
 
 - [JAVA 기초 : Keywords 1편](https://github.com/yunyoseob/velog.io-yunyoseob/blob/main/JAVA%EA%B8%B0%EC%B4%88/JAVA%20%EA%B8%B0%EC%B4%88%20:%20Keywords%201%ED%8E%B8.md)
+
+- [JAVA 기초 : Keywords 2편](https://github.com/yunyoseob/velog.io-yunyoseob/blob/main/JAVA%EA%B8%B0%EC%B4%88/JAVA%20%EA%B8%B0%EC%B4%88%20:%20Keywords%202%ED%8E%B8.md)

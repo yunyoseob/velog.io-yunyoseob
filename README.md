@@ -14,6 +14,7 @@
 |3|[JAVA 기초 : Keywords 1편](https://github.com/yunyoseob/velog.io-yunyoseob/blob/main/JAVA%EA%B8%B0%EC%B4%88/JAVA%20%EA%B8%B0%EC%B4%88%20:%20Keywords%201%ED%8E%B8.md)|
 |4|[JAVA 기초 : Keywords 2편](https://github.com/yunyoseob/velog.io-yunyoseob/blob/main/JAVA%EA%B8%B0%EC%B4%88/JAVA%20%EA%B8%B0%EC%B4%88%20:%20Keywords%202%ED%8E%B8.md)|
 |5|[함수와 변수 1편](https://github.com/yunyoseob/velog.io-yunyoseob/blob/main/JAVA%EA%B8%B0%EC%B4%88/%ED%95%A8%EC%88%98%EC%99%80%EB%B3%80%EC%88%98_1%ED%8E%B8.md)|
+|6|[JAVA 키워드 : new](https://github.com/yunyoseob/velog.io-yunyoseob/blob/main/JAVA%EA%B8%B0%EC%B4%88/JAVA_%ED%82%A4%EC%9B%8C%EB%93%9C:_new.md)|
 
 
 

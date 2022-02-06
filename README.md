@@ -37,3 +37,4 @@
 |포스팅번호|제목|
 |--|--|
 |1|[[파이썬] big-O](https://github.com/yunyoseob/velog.io-yunyoseob/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%26%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/%5B%ED%8C%8C%EC%9D%B4%EC%8D%AC%5Dbig-O.md)|
+|2|[[파이썬] 선형 자료구조 : 배열](https://github.com/yunyoseob/velog.io-yunyoseob/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%26%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/%5B%ED%8C%8C%EC%9D%B4%EC%8D%AC%5D%EC%84%A0%ED%98%95%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0:%EB%B0%B0%EC%97%B4.md)|

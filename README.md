@@ -15,8 +15,7 @@
 |4|[JAVA 기초 : Keywords 2편](https://github.com/yunyoseob/velog.io-yunyoseob/blob/main/JAVA%EA%B8%B0%EC%B4%88/JAVA%20%EA%B8%B0%EC%B4%88%20:%20Keywords%202%ED%8E%B8.md)|
 |5|[함수와 변수 1편](https://github.com/yunyoseob/velog.io-yunyoseob/blob/main/JAVA%EA%B8%B0%EC%B4%88/%ED%95%A8%EC%88%98%EC%99%80%EB%B3%80%EC%88%98_1%ED%8E%B8.md)|
 |6|[JAVA 키워드 : new](https://github.com/yunyoseob/velog.io-yunyoseob/blob/main/JAVA%EA%B8%B0%EC%B4%88/JAVA_%ED%82%A4%EC%9B%8C%EB%93%9C:_new.md)|
-
-
+|7|[JAVA 자료형 : 문자와 문자열](https://github.com/yunyoseob/velog.io-yunyoseob/blob/main/JAVA%EA%B8%B0%EC%B4%88/JAVA%EC%9E%90%EB%A3%8C%ED%98%95:%EB%AC%B8%EC%9E%90%EC%99%80%EB%AC%B8%EC%9E%90%EC%97%B4.md)|
 
 
 
@@ -28,6 +27,7 @@
 |--|--|
 |1|[Gradient Descent : 경사하강법](https://github.com/yunyoseob/velog.io-yunyoseob/blob/main/%ED%82%A4%EC%9B%8C%EB%93%9C%EB%A1%9C%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D/Gradient_Descent:%EA%B2%BD%EC%82%AC%ED%95%98%EA%B0%95%EB%B2%95.md)|
 |2|[Gradient Vanishing : 기울기소실](https://github.com/yunyoseob/velog.io-yunyoseob/blob/main/%ED%82%A4%EC%9B%8C%EB%93%9C%EB%A1%9C%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D/Gradient_Vanishing:%EA%B8%B0%EC%9A%B8%EA%B8%B0%EC%86%8C%EC%8B%A4.md)|
+|3|[Gaussian Distribution : 정규분포](https://github.com/yunyoseob/velog.io-yunyoseob/blob/main/%ED%82%A4%EC%9B%8C%EB%93%9C%EB%A1%9C%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D/Gaussian_Distribution:%EC%A0%95%EA%B7%9C%EB%B6%84%ED%8F%AC.md)|
 
 
 ## 블로그 포스팅 세 번째 시리즈: 알고리즘&자료구조

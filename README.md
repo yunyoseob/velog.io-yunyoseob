@@ -13,7 +13,7 @@
 |2|[HelloJava 출력하기](https://velog.io/@yunyoseob/HelloJava-%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0)|
 |3|[JAVA 기초 : Keywords 1편](https://velog.io/@yunyoseob/JAVA-%EA%B8%B0%EC%B4%88-Keywords-1%ED%8E%B8)|
 |4|[JAVA 기초 : Keywords 2편](https://velog.io/@yunyoseob/JAVA-%EA%B8%B0%EC%B4%88-Keywords-2%ED%8E%B8)|
-|5|[함수와 변수 1편](https://velog.io/@yunyoseob/%ED%95%A8%EC%88%98%EC%99%80-%EB%B3%80%EC%88%98)|
+|5|[함수와 변수](https://velog.io/@yunyoseob/%ED%95%A8%EC%88%98%EC%99%80-%EB%B3%80%EC%88%98)|
 |6|[JAVA 키워드 : new](https://velog.io/@yunyoseob/JAVA-%ED%82%A4%EC%9B%8C%EB%93%9C-new)|
 |7|[JAVA 자료형 : 문자와 문자열](https://velog.io/@yunyoseob/JAVA-%EC%9E%90%EB%A3%8C%ED%98%95-%EB%AC%B8%EC%9E%90%EC%99%80-%EB%AC%B8%EC%9E%90%EC%97%B4)|
 |8|[JAVA 배열과 조건문(if문)](https://velog.io/@yunyoseob/JAVA-%EB%B0%B0%EC%97%B4%EA%B3%BC-%EC%A1%B0%EA%B1%B4%EB%AC%B8if%EB%AC%B8)|

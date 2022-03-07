@@ -29,7 +29,7 @@
 |18|[JAVA : invoke, 예외처리, Class.forName()](https://velog.io/@yunyoseob/JAVA-invoke-%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC-Class.forName)|
 |19|[JAVA : Math, BigDecimal](https://velog.io/@yunyoseob/JAVA-Math-BigDecimal)|
 |20|[JAVA : java.io](https://velog.io/@yunyoseob/JAVA-java.io)|
-
+|21|[JAVA : java.sql](https://velog.io/@yunyoseob/JAVA-java.sql)|
 
 ## 블로그 포스팅 두 번째 시리즈 : 키워드로 공부하는 데이터분석
 

@@ -23,14 +23,16 @@
 |12|[JAVA : 상속, 생성자, 정보의 은닉화](https://velog.io/@yunyoseob/JAVA-%EC%83%81%EC%86%8D-%EC%83%9D%EC%84%B1%EC%9E%90-%EC%A0%95%EB%B3%B4%EC%9D%98-%EC%9D%80%EB%8B%89%ED%99%94)
 |13|[JAVA : @Override, super](https://velog.io/@yunyoseob/JAVA-Override-super)|
 |14|[JAVA : Downcasting, 추상클래스, 인터페이스클래스](https://velog.io/@yunyoseob/JAVA-Downcasting-%EC%B6%94%EC%83%81%ED%81%B4%EB%9E%98%EC%8A%A4-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%ED%81%B4%EB%9E%98%EC%8A%A4)
-|15|[JAVA : Eclipse 설치](https://velog.io/@yunyoseob/JAVA-Eclipse-%EC%84%A4%EC%B9%98)|
-|16|[JAVA : ArrayList](https://velog.io/@yunyoseob/JAVA-ArrayList)|
-|17|[JAVA : equals, 정보의 불변성, StringBuffer.append()](https://velog.io/@yunyoseob/JAVA-equals-%EC%A0%95%EB%B3%B4%EC%9D%98-%EB%B6%88%EB%B3%80%EC%84%B1-StringBuffer.append)|
-|18|[JAVA : invoke, 예외처리, Class.forName()](https://velog.io/@yunyoseob/JAVA-invoke-%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC-Class.forName)|
-|19|[JAVA : Math, BigDecimal](https://velog.io/@yunyoseob/JAVA-Math-BigDecimal)|
-|20|[JAVA : java.io](https://velog.io/@yunyoseob/JAVA-java.io)|
-|21|[JAVA : java.sql](https://velog.io/@yunyoseob/JAVA-java.sql)|
-|22|[JAVA : PreparedStatement](https://velog.io/@yunyoseob/JAVA-PreparedStatement)|
+|15|[JAVA : 인터페이스클래스(코드실습)](https://velog.io/@yunyoseob/JAVA-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%ED%81%B4%EB%9E%98%EC%8A%A4%EC%BD%94%EB%93%9C%EC%8B%A4%EC%8A%B5)|
+|16|[JAVA : Eclipse 설치](https://velog.io/@yunyoseob/JAVA-Eclipse-%EC%84%A4%EC%B9%98)|
+|17|[JAVA : ArrayList](https://velog.io/@yunyoseob/JAVA-ArrayList)|
+|18|[JAVA : equals, 정보의 불변성, StringBuffer.append()](https://velog.io/@yunyoseob/JAVA-equals-%EC%A0%95%EB%B3%B4%EC%9D%98-%EB%B6%88%EB%B3%80%EC%84%B1-StringBuffer.append)|
+|19|[JAVA : invoke, 예외처리, Class.forName()](https://velog.io/@yunyoseob/JAVA-invoke-%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC-Class.forName)|
+|20|[JAVA : Math, BigDecimal](https://velog.io/@yunyoseob/JAVA-Math-BigDecimal)|
+|21|[JAVA : java.io](https://velog.io/@yunyoseob/JAVA-java.io)|
+|22|[JAVA : java.sql](https://velog.io/@yunyoseob/JAVA-java.sql)|
+|23|[JAVA : PreparedStatement](https://velog.io/@yunyoseob/JAVA-PreparedStatement)|
+|24|[JAVA : String, StringTokenizer](https://velog.io/@yunyoseob/JAVA-String-%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D)|
 
 ## 블로그 포스팅 두 번째 시리즈 : 키워드로 공부하는 데이터분석
 

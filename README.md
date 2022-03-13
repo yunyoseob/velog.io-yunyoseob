@@ -56,3 +56,12 @@
 |--|--|
 |1|[[파이썬] big-O](https://velog.io/@yunyoseob/%ED%8C%8C%EC%9D%B4%EC%8D%AC-big-O)|
 |2|[[파이썬] 선형 자료구조 : 배열](https://velog.io/@yunyoseob/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%84%A0%ED%98%95-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EB%B0%B0%EC%97%B4)|
+
+
+## 블로그 포스팅 네 번째 시리즈: SQL기초
+
+|포스팅번호|제목|
+|--|--|
+|1|[[Oracle DB] SQL 기초문법 1편](https://velog.io/@yunyoseob/Oracle-DB-SQL-%EA%B8%B0%EC%B4%88%EB%AC%B8%EB%B2%95-1%ED%8E%B8)|
+
+

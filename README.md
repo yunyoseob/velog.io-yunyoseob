@@ -64,5 +64,6 @@
 |--|--|
 |1|[[Oracle DB] SQL 기초문법 1편](https://velog.io/@yunyoseob/Oracle-DB-SQL-%EA%B8%B0%EC%B4%88%EB%AC%B8%EB%B2%95-1%ED%8E%B8)|
 |2|[[Oracle DB] SQL 기초문법 2편](https://velog.io/@yunyoseob/Oracle-DB-SQL-%EA%B8%B0%EC%B4%88%EB%AC%B8%EB%B2%95-2%ED%8E%B8)|
+|3|[[ORACLE DB] SQL INSERT ERROR](https://velog.io/@yunyoseob/ORACLE-DB-SQL-INSERT-ERROR)|
 
 

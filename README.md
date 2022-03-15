@@ -47,18 +47,7 @@
 |2|[Gradient Vanishing : 기울기소실](https://velog.io/@yunyoseob/Gradient-Vanishing-%EA%B8%B0%EC%9A%B8%EA%B8%B0-%EC%86%8C%EC%8B%A4)|
 |3|[Gaussian Distribution : 정규분포](https://velog.io/@yunyoseob/Gaussian-Distribution-%EC%A0%95%EA%B7%9C%EB%B6%84%ED%8F%AC)|
 
-
-## 블로그 포스팅 세 번째 시리즈: 알고리즘&자료구조
-
-> [알고리즘&자료구조](https://velog.io/@yunyoseob/series/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0)
-
-|포스팅번호|제목|
-|--|--|
-|1|[[파이썬] big-O](https://velog.io/@yunyoseob/%ED%8C%8C%EC%9D%B4%EC%8D%AC-big-O)|
-|2|[[파이썬] 선형 자료구조 : 배열](https://velog.io/@yunyoseob/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%84%A0%ED%98%95-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EB%B0%B0%EC%97%B4)|
-
-
-## 블로그 포스팅 네 번째 시리즈: SQL기초
+## 블로그 포스팅 세 번째 시리즈: SQL기초
 
 |포스팅번호|제목|
 |--|--|

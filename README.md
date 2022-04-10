@@ -66,6 +66,6 @@
 |4|[[js, jQuery] javascript, jQuery 기초](https://velog.io/@yunyoseob/js-jQuery-javascript-jQuery-%EA%B8%B0%EC%B4%88)|
 |5|[[html, js, jQuery]FORM TAG 2편](https://velog.io/@yunyoseob/html-js-jQuery-FORM-TAG-2%ED%8E%B8)|
 |6|[[CSS]CSS 기초](https://velog.io/@yunyoseob/CSS-CSS-%EA%B8%B0%EC%B4%88)|
-
+|7|[[CSS] CSS동적활용](https://velog.io/@yunyoseob/CSS-CSS-%EB%8F%99%EC%A0%81%ED%99%9C%EC%9A%A9)|
 
 

@@ -67,5 +67,5 @@
 |5|[[html, js, jQuery]FORM TAG 2편](https://velog.io/@yunyoseob/html-js-jQuery-FORM-TAG-2%ED%8E%B8)|
 |6|[[CSS]CSS 기초](https://velog.io/@yunyoseob/CSS-CSS-%EA%B8%B0%EC%B4%88)|
 |7|[[CSS] CSS동적활용](https://velog.io/@yunyoseob/CSS-CSS-%EB%8F%99%EC%A0%81%ED%99%9C%EC%9A%A9)|
-
+|8|[[jsp] 페이지이동](https://velog.io/@yunyoseob/jsp-%ED%8E%98%EC%9D%B4%EC%A7%80%EC%9D%B4%EB%8F%99)|
 

@@ -69,3 +69,4 @@
 |7|[[CSS] CSS동적활용](https://velog.io/@yunyoseob/CSS-CSS-%EB%8F%99%EC%A0%81%ED%99%9C%EC%9A%A9)|
 |8|[[jsp] 페이지이동](https://velog.io/@yunyoseob/jsp-%ED%8E%98%EC%9D%B4%EC%A7%80%EC%9D%B4%EB%8F%99)|
 |9|[[html, jsp, java] 파일 업로드](https://velog.io/@yunyoseob/html-jsp-java-%ED%8C%8C%EC%9D%BC-%EC%97%85%EB%A1%9C%EB%93%9C)|
+|10|[[XML] XML 활용 기초](https://velog.io/@yunyoseob/XML-XML-%ED%99%9C%EC%9A%A9-%EA%B8%B0%EC%B4%88)|
